@@ -1,6 +1,6 @@
 # Code for computing ladderpaths
 
-It is the code to compute the shortest ladderpaths of a target block or target system, associated with the paper "**Ladderpath Approach: How Tinkering and Reuse Increase Complexity and Information**" by Yu Liu, Zengru Di and Philip Gerlee.
+It is the code to compute the shortest ladderpaths of a target block or target system, associated with the paper "**Ladderpath Approach: How Tinkering and Reuse Increase Complexity and Information, Entropy, 24(8):1082, 2022**" by Yu Liu, Zengru Di and Philip Gerlee. [https://www.mdpi.com/1099-4300/24/8/1082](https://www.mdpi.com/1099-4300/24/8/1082)
 
 
 ------------
